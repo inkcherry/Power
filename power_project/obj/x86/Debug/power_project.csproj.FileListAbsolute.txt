@@ -1,0 +1,95 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\bin\Debug\power_project.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\bin\Debug\power_project.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\bin\Debug\power_project.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\power_project\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\power_project\power_project\bin\Debug\power_project.exe.config
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.exe
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\Administrator\Desktop\power_project\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\Administrator\Desktop\power_project\power_project\bin\Debug\power_project.exe
+C:\Users\Administrator\Desktop\power_project\power_project\bin\Debug\power_project.pdb
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmRiskAssessment.resources
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\power_project\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\power_project.exe.config
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\power_project.exe
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\power_project.pdb
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmRiskAssessment.resources
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.exe
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\dian\power_project\power_project\bin\Debug\power_project.application
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\dian\power_project\power_project\obj\x86\Debug\power_project.application
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\power_project.exe.config
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\power_project.application
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\power_project.exe
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\bin\Debug\power_project.pdb
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmRiskAssessment.resources
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.application
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.exe
+C:\Users\ASUS\Desktop\all_dian\power_project\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\power_project.exe.config
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\power_project.application
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\power_project.exe
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\bin\Debug\power_project.pdb
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.AppForm.fmRiskAssessment.resources
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.exe.manifest
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.application
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.exe
+C:\Users\ASUS\Desktop\alldian1\power_project\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\AppData\db_test.mdb
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\power_project.exe.config
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\power_project.exe.manifest
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\power_project.application
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\power_project.exe
+C:\Users\inkycherry\Desktop\哭泣\power_project\bin\Debug\power_project.pdb
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.csprojResolveAssemblyReference.cache
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.AppForm.fmCreatTask.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.AppForm.fmLogin.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.AppForm.fmRiskAssessment.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.fm_Main.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.Properties.Resources.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.csproj.GenerateResource.Cache
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.exe.manifest
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.application
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.exe
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.pdb
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.AppForm.DBManager.resources
+C:\Users\inkycherry\Desktop\哭泣\power_project\obj\x86\Debug\power_project.AppForm.LevelAllAdd.resources
