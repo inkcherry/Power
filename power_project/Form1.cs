@@ -27,8 +27,6 @@ namespace power_project
             fmLog.ShowDialog();  // 将窗体显示为活动对话框
             fmLog.Dispose();     // 运行完毕会自动释放资源
             this.statusStrip1.Items[2].Text = Public_Class.PublicCommonClass.Login_Name+"  ||";
-
-
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -43,18 +41,14 @@ namespace power_project
 
         private void 建工作票ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AppForm.fmCreatTask frm = new AppForm.fmCreatTask();
+            AppForm.fmRiskAssessment frm = new AppForm.fmRiskAssessment();
             frm.ShowDialog();
         }
 
         private void 数据管理ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            AppForm.DBManager dbm = new AppForm.DBManager();
-            dbm.ShowDialog();
-        }
-
-        private void 系统ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
+        {     
+                AppForm.DBManager dbm = new AppForm.DBManager();
+                dbm.ShowDialog();
 
         }
     }

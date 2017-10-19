@@ -33,6 +33,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
             this.level2_panel = new System.Windows.Forms.Panel();
             this.label40 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
@@ -43,14 +51,6 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -116,10 +116,10 @@
             this.tableLayoutPanel1.Controls.Add(this.label5, 0, 5);
             this.tableLayoutPanel1.Controls.Add(this.label6, 0, 6);
             this.tableLayoutPanel1.Controls.Add(this.label7, 0, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label8, 0, 8);
             this.tableLayoutPanel1.Controls.Add(this.label9, 0, 9);
             this.tableLayoutPanel1.Controls.Add(this.label10, 0, 10);
             this.tableLayoutPanel1.Controls.Add(this.label11, 0, 11);
+            this.tableLayoutPanel1.Controls.Add(this.label8, 0, 8);
             this.tableLayoutPanel1.ForeColor = System.Drawing.Color.MediumBlue;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(-4, 3);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -141,6 +141,118 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(203, 369);
             this.tableLayoutPanel1.TabIndex = 4;
+            // 
+            // label4
+            // 
+            this.label4.BackColor = System.Drawing.SystemColors.Control;
+            this.label4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label4.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label4.Location = new System.Drawing.Point(3, 108);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(197, 27);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "4、典型倒闸操作全过程风险管控——线路部分";
+            this.label4.Click += new System.EventHandler(this.Level1_Click);
+            this.label4.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label4.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label5
+            // 
+            this.label5.BackColor = System.Drawing.SystemColors.Control;
+            this.label5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label5.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label5.Location = new System.Drawing.Point(3, 135);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(197, 27);
+            this.label5.TabIndex = 6;
+            this.label5.Text = "5、典型倒闸操作全过程风险管控——母线部分";
+            this.label5.Click += new System.EventHandler(this.Level1_Click);
+            this.label5.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label5.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.SystemColors.Control;
+            this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label6.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label6.Location = new System.Drawing.Point(3, 162);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(197, 27);
+            this.label6.TabIndex = 7;
+            this.label6.Text = "6、典型倒闸操作全过程风险管控——变压器部分";
+            this.label6.Click += new System.EventHandler(this.Level1_Click);
+            this.label6.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label6.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label7
+            // 
+            this.label7.BackColor = System.Drawing.SystemColors.Control;
+            this.label7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label7.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label7.Location = new System.Drawing.Point(3, 189);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(197, 27);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "7、典型倒闸操作全过程风险管控——变压器部分";
+            this.label7.Click += new System.EventHandler(this.Level1_Click);
+            this.label7.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label7.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label8
+            // 
+            this.label8.BackColor = System.Drawing.SystemColors.Control;
+            this.label8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label8.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label8.Location = new System.Drawing.Point(3, 216);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(197, 27);
+            this.label8.TabIndex = 9;
+            this.label8.Text = "8、典型倒闸操作全过程风险管控——安全工器具部分";
+            this.label8.Click += new System.EventHandler(this.Level1_Click);
+            this.label8.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label8.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label9
+            // 
+            this.label9.BackColor = System.Drawing.SystemColors.Control;
+            this.label9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label9.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label9.Location = new System.Drawing.Point(3, 243);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(197, 27);
+            this.label9.TabIndex = 10;
+            this.label9.Text = "9、典型倒闸操作全过程风险管控——防误闭锁装置部分";
+            this.label9.Click += new System.EventHandler(this.Level1_Click);
+            this.label9.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label9.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label10
+            // 
+            this.label10.BackColor = System.Drawing.SystemColors.Control;
+            this.label10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label10.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label10.Location = new System.Drawing.Point(3, 270);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(197, 27);
+            this.label10.TabIndex = 11;
+            this.label10.Text = "10、典型倒闸操作全过程风险管控——人员部分";
+            this.label10.Click += new System.EventHandler(this.Level1_Click);
+            this.label10.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label10.MouseLeave += new System.EventHandler(this.Level1_Leave);
+            // 
+            // label11
+            // 
+            this.label11.BackColor = System.Drawing.SystemColors.Control;
+            this.label11.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label11.ForeColor = System.Drawing.Color.MediumBlue;
+            this.label11.Location = new System.Drawing.Point(3, 297);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(197, 27);
+            this.label11.TabIndex = 12;
+            this.label11.Text = "11、典型倒闸操作全过程风险管控——气象条件部分";
+            this.label11.Click += new System.EventHandler(this.Level1_Click);
+            this.label11.MouseEnter += new System.EventHandler(this.Level1_Enter);
+            this.label11.MouseLeave += new System.EventHandler(this.Level1_Leave);
             // 
             // level2_panel
             // 
@@ -237,94 +349,6 @@
             this.button6.Text = "删除";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.Level3_Delete);
-            // 
-            // label4
-            // 
-            this.label4.BackColor = System.Drawing.SystemColors.Control;
-            this.label4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label4.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label4.Location = new System.Drawing.Point(3, 108);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(197, 27);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "4、典型倒闸操作全过程风险管控——线路部分";
-            // 
-            // label5
-            // 
-            this.label5.BackColor = System.Drawing.SystemColors.Control;
-            this.label5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label5.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label5.Location = new System.Drawing.Point(3, 135);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(197, 27);
-            this.label5.TabIndex = 6;
-            this.label5.Text = "5、典型倒闸操作全过程风险管控——母线部分";
-            // 
-            // label6
-            // 
-            this.label6.BackColor = System.Drawing.SystemColors.Control;
-            this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label6.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label6.Location = new System.Drawing.Point(3, 162);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(197, 27);
-            this.label6.TabIndex = 7;
-            this.label6.Text = "6、典型倒闸操作全过程风险管控——变压器部分";
-            // 
-            // label7
-            // 
-            this.label7.BackColor = System.Drawing.SystemColors.Control;
-            this.label7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label7.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label7.Location = new System.Drawing.Point(3, 189);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(197, 27);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "7、典型倒闸操作全过程风险管控——变压器部分";
-            // 
-            // label8
-            // 
-            this.label8.BackColor = System.Drawing.SystemColors.Control;
-            this.label8.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label8.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label8.Location = new System.Drawing.Point(3, 216);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(197, 27);
-            this.label8.TabIndex = 9;
-            this.label8.Text = "8、典型倒闸操作全过程风险管控——安全工器具部分";
-            // 
-            // label9
-            // 
-            this.label9.BackColor = System.Drawing.SystemColors.Control;
-            this.label9.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label9.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label9.Location = new System.Drawing.Point(3, 243);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(197, 27);
-            this.label9.TabIndex = 10;
-            this.label9.Text = "9、典型倒闸操作全过程风险管控——防误闭锁装置部分";
-            // 
-            // label10
-            // 
-            this.label10.BackColor = System.Drawing.SystemColors.Control;
-            this.label10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label10.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label10.Location = new System.Drawing.Point(3, 270);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(197, 27);
-            this.label10.TabIndex = 11;
-            this.label10.Text = "10、典型倒闸操作全过程风险管控——人员部分";
-            // 
-            // label11
-            // 
-            this.label11.BackColor = System.Drawing.SystemColors.Control;
-            this.label11.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label11.ForeColor = System.Drawing.Color.MediumBlue;
-            this.label11.Location = new System.Drawing.Point(3, 297);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(197, 27);
-            this.label11.TabIndex = 12;
-            this.label11.Text = "11、典型倒闸操作全过程风险管控——气象条件部分";
             // 
             // DBManager
             // 

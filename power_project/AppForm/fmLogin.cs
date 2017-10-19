@@ -38,7 +38,7 @@ namespace power_project.AppForm
             {
                 //OleDbDataReader all_data = MyDataAccess.Read_Cmd("select * from tb_privilege_list where privilege='daf'");
                 //OleDbDataReader tmpDR =MyDataAccess.Read_Cmd("select * from tb_Login where us_name='" + textBox1.Text.Trim() + "' and us_pwd='" + textBox2.Text.Trim() + "'");
-                OleDbDataReader tmpDR = MyDataAccess.Read_Cmd("select * from td_oplist");
+                OleDbDataReader tmpDR = MyDataAccess.Read_Cmd("select * from tb_oplist");
 
 
                 bool ret = tmpDR.Read();    // 根据存在条件判断是否存在这种用户

@@ -39,6 +39,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -67,7 +68,6 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -78,17 +78,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="AppForm\DBManager.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AppForm\DBManager.Designer.cs">
       <DependentUpon>DBManager.cs</DependentUpon>
-    </Compile>
-    <Compile Include="AppForm\fmCreatTask.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AppForm\fmCreatTask.Designer.cs">
-      <DependentUpon>fmCreatTask.cs</DependentUpon>
     </Compile>
     <Compile Include="AppForm\fmLogin.cs">
       <SubType>Form</SubType>
@@ -108,6 +105,12 @@
     <Compile Include="AppForm\LevelAllAdd.Designer.cs">
       <DependentUpon>LevelAllAdd.cs</DependentUpon>
     </Compile>
+    <Compile Include="AppForm\show.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppForm\show.Designer.cs">
+      <DependentUpon>show.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,11 +121,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Public_Class\DataAccessClass.cs" />
     <Compile Include="Public_Class\PublicCommonClass.cs" />
+    <Compile Include="Report.cs" />
     <EmbeddedResource Include="AppForm\DBManager.resx">
       <DependentUpon>DBManager.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="AppForm\fmCreatTask.resx">
-      <DependentUpon>fmCreatTask.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AppForm\fmLogin.resx">
       <DependentUpon>fmLogin.cs</DependentUpon>
@@ -132,6 +133,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AppForm\LevelAllAdd.resx">
       <DependentUpon>LevelAllAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppForm\show.resx">
+      <DependentUpon>show.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -174,6 +178,44 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

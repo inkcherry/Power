@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="power_project.exe" size="363400">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="power_project.exe" size="390536">
       <assemblyIdentity name="power_project" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>pEtQGFMWeBAlRYbaeRxKc0JaFPo=</dsig:DigestValue>
+        <dsig:DigestValue>J+vMDh4sEVOJFj2+ulDroB279xA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="AppData\db_test.mdb" size="745472" writeableType="applicationData">
+  <file name="AppData\db_test.mdb" size="741376" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Mk50ir2NPF+sXrWzmEoKLOrwq94=</dsig:DigestValue>
+      <dsig:DigestValue>dohseKxK7e6sJofjfwhvx/UZeJo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="power_project.exe.config" size="441">
